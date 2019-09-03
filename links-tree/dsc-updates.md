@@ -13,6 +13,6 @@ Start Date: **29/08/2019** , End Date: **04/09/2019 11:55PM**
 
 ## 3. Hack4Good Hackathon
 Date of the Event: **06/09/2019 - 07/09/2019** 
-- 24hrs offline Hackathon on various themes, [Know more](bit.ly/CSH4G)
+- 24hrs offline Hackathon on various themes, [Know more](https://bit.ly/CSH4G)
 - Registration fee: 100/-
 - **[Regitster Here](https://bit.ly/CSH4G)** [bit.ly/CSH4G]
